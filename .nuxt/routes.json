@@ -1,0 +1,93 @@
+[
+  {
+    "name": "sceneone",
+    "path": "/sceneone",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\sceneone.vue",
+    "chunkName": "pages/sceneone",
+    "_name": "_ff2d7114"
+  },
+  {
+    "name": "sceneoneout1",
+    "path": "/sceneoneout1",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\sceneoneout1.vue",
+    "chunkName": "pages/sceneoneout1",
+    "_name": "_39b7d999"
+  },
+  {
+    "name": "sceneoneout2",
+    "path": "/sceneoneout2",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\sceneoneout2.vue",
+    "chunkName": "pages/sceneoneout2",
+    "_name": "_39c5f11a"
+  },
+  {
+    "name": "sceneoneout3",
+    "path": "/sceneoneout3",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\sceneoneout3.vue",
+    "chunkName": "pages/sceneoneout3",
+    "_name": "_39d4089b"
+  },
+  {
+    "name": "scenethree",
+    "path": "/scenethree",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenethree.vue",
+    "chunkName": "pages/scenethree",
+    "_name": "_e47f36a4"
+  },
+  {
+    "name": "scenethreeout1",
+    "path": "/scenethreeout1",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenethreeout1.vue",
+    "chunkName": "pages/scenethreeout1",
+    "_name": "_5f4d9ad1"
+  },
+  {
+    "name": "scenethreeout2",
+    "path": "/scenethreeout2",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenethreeout2.vue",
+    "chunkName": "pages/scenethreeout2",
+    "_name": "_5f5bb252"
+  },
+  {
+    "name": "scenethreeout3",
+    "path": "/scenethreeout3",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenethreeout3.vue",
+    "chunkName": "pages/scenethreeout3",
+    "_name": "_5f69c9d3"
+  },
+  {
+    "name": "scenetwo",
+    "path": "/scenetwo",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenetwo.vue",
+    "chunkName": "pages/scenetwo",
+    "_name": "_ce5e0f48"
+  },
+  {
+    "name": "scenetwoout1",
+    "path": "/scenetwoout1",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenetwoout1.vue",
+    "chunkName": "pages/scenetwoout1",
+    "_name": "_f91eb102"
+  },
+  {
+    "name": "scenetwoout2",
+    "path": "/scenetwoout2",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenetwoout2.vue",
+    "chunkName": "pages/scenetwoout2",
+    "_name": "_f9028200"
+  },
+  {
+    "name": "scenetwoout3",
+    "path": "/scenetwoout3",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\scenetwoout3.vue",
+    "chunkName": "pages/scenetwoout3",
+    "_name": "_f8e652fe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Henrique\\\\Jungle-Strugle\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_26f7d966"
+  }
+]
